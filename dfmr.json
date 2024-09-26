@@ -99,7 +99,7 @@
     "number": 17,
     "prompt": "Have a wall with a sign titled \"wet paint, please do not touch.\" Upon touching it, you will be told that you have messed up the paint and they'll have to redo it. Then the game resets.",
     "author": "Kermit Kujo",
-    "status": false
+    "status": true
   },
   {
     "number": 18,
@@ -111,13 +111,13 @@
     "number": 19,
     "prompt": "So, get this, a green mushroom, just a tiny mushroom fella on a desk or somethin'. You interact with it and that will cause it to perform The Dedication™ Scream. You may or may not know what The Dedication™ Scream even is.",
     "author": "germtm.",
-    "status": false
+    "status": true
   },
   {
     "number": 20,
     "prompt": "An old computer with a sticky note with a smiley face drawn on attached to it. Interacting with the computer makes the sticky note fall off, with text underneath saying \"What? Did you expect some kind of Easter Egg?\"",
     "author": "Demo",
-    "status": false
+    "status": true
   },
   {
     "number": 21,
@@ -129,7 +129,7 @@
     "number": 22,
     "prompt": "A portal that sends you to the default UE4 first person shooter template map.",
     "author": "toast",
-    "status": false
+    "status": true
   },
   {
     "number": 23,
@@ -177,7 +177,7 @@
     "number": 30,
     "prompt": "A pack of cigarettes that have been soaking in the blood of 42 dragons for 2 days, smoking one will cause your brain to explode and your body to ascend to a plane beyond our own.",
     "author": "Overnt",
-    "status": false
+    "status": true
   },
   {
     "number": 31,
