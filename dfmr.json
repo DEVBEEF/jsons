@@ -135,13 +135,13 @@
     "number": 23,
     "prompt": "Add Dr.Finklestein's Marvelous Dating Simulator",
     "author": "Overnt",
-    "status": false
+    "status": true
   },
   {
     "number": 24,
     "prompt": "Help button not helping you out? When in doubt, send the Marines!",
     "author": "Supernionra",
-    "status": false
+    "status": true
   },
   {
     "number": 25,
@@ -153,7 +153,7 @@
     "number": 26,
     "prompt": "One of the walls in the room gets slightly closer when the player isn't looking. There's a point when the change is noticeable. If the player notices it, revert the wall to its original state as soon the player isn't looking anymore and restart the cycle.",
     "author": "AleS",
-    "status": false
+    "status": true
   },
   {
     "number": 27,
@@ -207,7 +207,7 @@
     "number": 35,
     "prompt": "A time machine. Going forward makes the room futuristic, going back lets you see it being constructed.",
     "author": "tyronii",
-    "status": false
+    "status": true
   },
   {
     "number": 36,
@@ -225,7 +225,7 @@
     "number": 38,
     "prompt": "A dog that refuses to bark and makes any other sound humanly possible.",
     "author": "patter_ig",
-    "status": false
+    "status": true
   },
   {
     "number": 39,
@@ -261,7 +261,7 @@
     "number": 44,
     "prompt": "WILDCARD",
     "author": "WILDCARD",
-    "status": false
+    "status": true
   },
   {
     "number": 45,
